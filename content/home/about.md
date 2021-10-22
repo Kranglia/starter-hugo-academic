@@ -1,12 +1,21 @@
 ---
+# An instance of the About widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-widget_id: home-page
-headless: true
-weight: 20
-title: About
+
+# Activate this widget? true/false
 active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
+title: Biography
+
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
-I’m a post-doctoral researcher working on the multi-lab ‘cognitive effort’ project at Ghent University. As the project’s name suggests I am interested cognitive effort, both the factors that determine effort-based decision making and the processes and outcomes of effort allocation in different task contexts. These investigations make use of various experimental approaches and neuroimaging techniques, including behavioural experiments, fMRI, EEG, pupillometry and magnetic brain stimulation.
-
-Before coming to Ghent I worked as a PhD student and postdoc in the Attention and Cognitive Control lab at the Institute of Cognitive Neuroscience, UCL with Prof. Nilli Lavie researching intra- and inter-individual variability in susceptibility to cognitive and perceptual load.

@@ -70,7 +70,7 @@ social:
 highlight_name: true
 ---
 
-I am a post-doctoral researcher working on the multi-lab ‘cognitive effort’ project at Ghent University. As the project’s name suggests I am interested cognitive effort, both the factors that determine effort-based decision making and the processes and outcomes of effort allocation in different task contexts. These investigations make use of various experimental approaches and neuroimaging techniques, including behavioural experiments, fMRI, EEG, pupillometry and magnetic brain stimulation.
+I am a post-doctoral researcher studying cognitive effort as part of a consortium of labs at Ghent University. Broadly I am interested cognitive effort, both the factors that determine effort-based decision making and the processes and outcomes of effort allocation in different task contexts, especially in the context of visual attention. My work makes use of various experimental approaches and neuroimaging techniques, particularly behavioural experiments, EEG and eyetracking/ pupillometry.
 
 Before coming to Ghent I worked in the Attention and Cognitive Control lab at the Institute of Cognitive Neuroscience, UCL with Prof. Nilli Lavie as a PhD student and postdoc researching intra- and inter-individual variability in susceptibility to cognitive and perceptual load.
 

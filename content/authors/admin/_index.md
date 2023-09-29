@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Cognitive Neuroscience
     institution: University College London
-    year: 2017
+    year: 2018
   - course: MSc in Neuroimaging
     institution: Bangor University
     year: 2013
